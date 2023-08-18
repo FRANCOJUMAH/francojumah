@@ -15,7 +15,7 @@
 <b> 📫 &nbsp; Connect with me</br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francojumah"><img src="https://img.shields.io/badge/-franco-jumah-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/franco-jumah"><img src="https://img.shields.io/badge/-francojumah-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sailfranc705@gmail.com"><img src="https://img.shields.io/badge/-sailfranc705@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.twitter.com/francoinformar"><img src="https://img.shields.io/badge/-francoinformar-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/franco_theinformer"><img src="https://img.shields.io/badge/-franco_theinformer-bc2a8d?style=flat&logo=Instagram&logoColor=white"/></a>
