@@ -7,7 +7,7 @@
 <ul>
   <li>Web Development</li>
    <li>Software Engineering</li>
-   <li>Network & Cloud Security</li>
+   <li>Cloud & Network Security</li>
    <li>UI/UX Design</li>
    <li>Cyber Security</li>
    <li>Cloud Computing</li>
