@@ -29,8 +29,8 @@
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> 
-</a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> </p>
-</a> <a href="https://www.python.org" rel="nofollow"> <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="python" width="40" height="40" style="max-width: 100%;"> </a> </p>
+</a> <a href="https://www.credly.com/earner/earned/badge/f40af8ad-b0a6-4e74-bb35-eb685f26601f" rel="nofollow"> <img src="https://images.credly.com/size/680x680/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security" width="40" height="40" style="max-width: 100%;"> </a> </p>
+</a> <a href="https://www.credly.com/earner/earned/badge/b5325cbb-45e2-4b02-a6df-62bd24c99a37" rel="nofollow"> <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CCP" width="40" height="40" style="max-width: 100%;"> </a> </p>
 
 
 💻Code
