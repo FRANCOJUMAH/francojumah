@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm <b> Franco Jumah </b>
 ## I am a Tech, Cloud & Web Enthusiast 
 
-<p><a target="_blank" rel="noopener noreferrer" href="#"><img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/badcc819734aa1adbb9fbca7d9ddee8edf2d0b1654e62e67fbd1ad141203365c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-animated-image="" data-canonical-src="#" style="max-width: 100%;"></a></p></b>
+<p><a target="_blank" rel="noopener noreferrer" href="#"><img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/badcc819734aa1adbb9fbca7d9ddee8edf2d0b1654e62e67fbd1ad141203365c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" data-animated-image="" data-canonical-src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%;"></a></p></b>
 
 👀 <b> I'm interested in </b>
 <ul>
@@ -30,7 +30,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> 
 </a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> </p>
-
+</a> <a href="https://www.python.org" rel="nofollow"> <img src="https://www.credly.com/earner/earned/badge/f40af8ad-b0a6-4e74-bb35-eb685f26601f" alt="python" width="40" height="40" style="max-width: 100%;"> </a> </p>
 
 
 💻Code
